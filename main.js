@@ -31,3 +31,4 @@ function playAudio() {
    audio.play();
    console.log("audio played");
 }
+
